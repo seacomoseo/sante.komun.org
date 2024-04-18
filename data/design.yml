@@ -1,24 +1,24 @@
 icons:
-  type: solid
+  type: regular
   emojis: ''
   emojis_default: false
 fonts:
-  google: true
+  google: false
   base:
-    family: Montserrat
+    family: Satoshi
     weight: 400
-    strong: 0
+    strong: 700
     italic: false
     line-height: 1.25
   cursive:
-    family: Dancing Script
-    weight: 400
+    family: Satoshi
+    weight: 700
     strong: 0
     italic: false
     line-height: 1.25
     top: 0
   title:
-    family: Montserrat
+    family: Gilroy
     weight: 800
     strong: 0
     italic: false
@@ -27,9 +27,9 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#166c8d'
     light: '#fff'
-    dark: '#fff'
+    dark: '#011a36'
     contrast: text
   alt:
     color: '#fff'
@@ -37,31 +37,31 @@ colors:
     dark: '#fff'
     contrast: all
   link:
-    color: '#fe5f55'
+    color: '#fff'
     light: '#fff'
     dark: '#fff'
     contrast: text
   base:
     white: '#fff'
-    light: '#eee'
+    light: '#fffee5'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#232323'
     black: '#000'
 rounded:
-  radius: 0.33
+  radius: 1.33
   chamfer: false
 buttons:
   sides_round: false
   icon_circle: false
   deep: false
-  outline: false
+  outline: true
   font_base: false
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
-  opacity: 0.15
+  opacity: 0.25
 lightbox_overlay:
   opacity: 0.8
   color: black

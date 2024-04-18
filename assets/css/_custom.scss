@@ -12,9 +12,9 @@
 }
 #body-inicio #header {
   .image {
-    path {
-      fill: var(--text);
-    }
+    // path {
+    //   fill: var(--text);
+    // }
     transform-origin: center;
     animation: logo-drop 1s 0s both;
   }
@@ -25,4 +25,35 @@
   .subtitle {             @include show-from(2); }
   .description p {        @include show-from(3); }
   .description .buttons { @include show-from(4); }
+  .column--item-2 {
+    margin-bottom: -4em;
+  }
+}
+
+#terapeuta
+.column {
+  &:nth-child(1n) {
+    transform: perspective(20em) rotateY(-6deg);
+  }
+  &:nth-child(2n) {
+    transform: perspective(20em) rotateY(6deg);
+  }
+  @media (min-width: $screen-max) {
+    &:nth-child(1),
+    &:nth-child(4),
+    &:nth-child(5) {
+      transform: perspective(20em) rotateY(-6deg);
+    }
+    &:nth-child(2),
+    &:nth-child(3),
+    &:nth-child(6) {
+      transform: perspective(20em) rotateY(6deg);
+    }
+  }
+}
+
+#tarifas {
+  .column__description {
+    margin-top: 0;
+  }
 }

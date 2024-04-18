@@ -1,0 +1,61 @@
+title: Tarifas
+subtitle: Aportaciones conscientes
+# size: xl
+rows:
+- type: columns
+  design:
+    num: 3
+    # color: main
+    # gradient: main-dark
+    # gradient_type: linear-b
+    # align_y: top
+    underline: true
+    link: '#contacto'
+    label: Contacto
+    licon: paper-plane
+  items:
+  - icon: arrow-pointer
+    title: Sesión Online
+    subtitle: Online
+    price: 50 €
+    description: |
+      icon-clock 45min
+  - icon: location-dot
+    title: Sesión Presencial
+    subtitle: Presencial
+    price: 30 €
+    description: |
+      icon-clock 25min
+
+      icon-clock 50min: **50 €**
+
+      - icon-check Técnicas Manuales
+  - icon: glasses-round
+    title: Autognosis
+    subtitle: Online
+    price: 30 €
+    description: |
+      icon-clock 20min
+
+      - icon-check Estudio de formularios
+  - icon: bullseye-arrow
+    title: Pack Online
+    subtitle: Online
+    price: 100 €
+    description: |
+      icon-clock ¿?
+
+      - icon-check Estudio de formularios
+      - icon-check 1ª Entrevista
+      - icon-check Propuestas de cambio
+  - icon: hand-holding-hand
+    title: Pack Presencial
+    subtitle: Presencial
+    price: 120 €
+    description: |
+      icon-clock 1h 30min
+
+      - icon-check Estudio de formularios
+      - icon-check 1ª Entrevista
+      - icon-check Propuestas de cambio
+      - icon-check Técnicas Manuales

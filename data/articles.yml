@@ -1,12 +1,12 @@
 content:
-  logo: logo.svg
-  title: ''
+  logo: icon-tr.svg
+  title: SanTe
   subtitle: ''
   uppercase: false
   underline: false
   align: left
   color: light
-  toc_color: white
+  toc_color: main
   border: main
   reading_time: true
 common:
@@ -32,7 +32,7 @@ common:
   align_y: ''
   align_x: ''
   padding: ''
-  color: white
+  color: light
   gradient: ''
   gradient_type: ''
   color_opacity: null

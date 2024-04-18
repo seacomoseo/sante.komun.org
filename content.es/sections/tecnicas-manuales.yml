@@ -1,0 +1,39 @@
+title: Técnicas manuales
+subtitle: Métodos y técnicas de valoración utilizadas en sesiones presenciales
+rows:
+- type: columns
+  design:
+    num: 4
+    # num_xs: true
+    color: main
+    gradient: main-dark
+    gradient_type: linear-b
+    # uppercase: true
+    underline: true
+    pill: true
+  items:
+  - icon: hand-holding-hand
+    title: Osteopatía
+    # subtitle: Terapia Manual Osteopática
+    link: '#osteopatia'
+  - icon: hands-holding
+    title: Fisioterapia
+    link: '#fisioterapia'
+  - icon: hands-praying
+    title: Kinesiología
+    link: '#kinesiologia'
+  - icon: stomach
+    title: KBQ
+    subtitle: Kinesiología Bioquímica
+    link: '#kbq'
+  - icon: brain
+    title: PNI
+    subtitle: PsicoNeuroInmunología
+    link: '#pni'
+  - icon: hand-sparkles
+    title: Jin Shin Jyutsu
+    link: '#jin-shin-jyutsu'
+  - icon: hand-heart
+    title: Masaje Pránico
+    link: '#masaje-pránico'
+

@@ -1,0 +1,20 @@
+anchor: Tipos de acompañamiento
+title: Tipos
+subtitle: de acompañamiento
+rows:
+- type: columns
+  design:
+    underline: true
+  items:
+  - icon: arrow-pointer
+    title: Sesiones Online
+    subtitle: en cualquier parte
+    link: '#tarifas'
+  - icon: location-dot
+    title: Sesiones Presenciales
+    subtitle: en Murcia
+    link: '#tecnicas-manuales'
+  - icon: stomach
+    title: Seguimiento
+    subtitle: de Procesos Digestivos
+    link: '#formularios'

@@ -1,0 +1,40 @@
+title: acompañamienTo
+subtitle: Tu eres caminan-Te <br> Descubre-Te
+rows:
+- type: steps
+  design:
+    underline: true
+    # icon_size: 5
+  items:
+  - title: Paso 1
+    subtitle: Información
+    icon: circle-info
+    description: |
+      Rellena los formularios, y hablemos de la información que obtuviste
+
+      [btn icon-list Formularios](#formularios)
+  - title: Paso 2
+    subtitle: Entrevista
+    icon: comments
+    description: |
+      Si quieres profundizar, realizaremos una entrevista donde sumaremos información de interés que ayude a tener una visión mas especifica de lo que ocurre (signos, síntomas, historial de antecedentes…)
+  - title: Paso 3
+    subtitle: Propuesta
+    icon: bullseye-arrow
+    description: |
+      Se proponen cambios adaptados al abordaje del motivo de consulta
+  - title: Paso 4
+    subtitle: Cambios y seguimientos
+    icon: list-check
+    description: |
+      Aplicaras los cambios con un seguimiento durante 3 semanas en la app
+  - title: Paso 5
+    subtitle: Revisión
+    icon: memo-circle-check
+    description: |
+      Revisaremos y …
+  - title: Paso 6
+    subtitle: Final feliz
+    icon: heart
+    description: |
+      Sigue caminando en confianza y descubriéndoTe en amor

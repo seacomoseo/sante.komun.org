@@ -1,13 +1,30 @@
-title: SanSoul Hugo Theme
-subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
-image: logo.svg
-color: main-dark
-bg: fondo.jpg
-description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-  [btn icon-plus Más](#principal)
+anchor: SanTe - La Salud, en tus manos - AmaTe
+# bg: fondo.jpg
+# size: md
 more:
-  full_screen: true
-  image_min: 18
-  image_max: 20
+  # full_screen: true
+  padding_bottom: 1
+rows:
+- type: columns
+  design:
+    num: 7
+    align_y: center
+    align_x: left
+    underline: true
+  items:
+  - title: SanTe
+    subtitle: La Salud, en tus manos <br> AmaTe
+    image: icon-alt-tr.svg
+    ratio: 4x3
+    order: 2
+    span: 3
+    description: |
+      Terapeuta sensible y orientado a proporcionar planes de tratamiento creativos y adaptados a las necesidades
+
+      icon-plus de 25.000 sesiones realizadas
+
+      icon-plus de 15 años de experiencia
+
+      [btn icon-plus Más](#principal)
+  - image: leandro.png
+    span: 3
