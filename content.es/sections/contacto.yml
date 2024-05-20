@@ -1,5 +1,4 @@
 title: contacTo
-subtitle: ¿Cómo puedo hacer para que te ayudes?
 button: link
 size: xs
 rows:
@@ -33,7 +32,8 @@ rows:
       required: true
     - type: textarea
       name: Mensaje
+      placeholder: Motivo de consulta
       required: true
   map:
     active: false
-    link: https://g.page/webmurcia
+    link: https://g.page/r/CTpYR3QOc9TQEBM

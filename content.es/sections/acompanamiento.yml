@@ -1,5 +1,5 @@
-title: acompañamienTo
-subtitle: Tu eres caminan-Te <br> Descubre-Te
+title: Valoración
+subtitle: ¿Comenzamos?
 rows:
 - type: steps
   design:
@@ -24,7 +24,7 @@ rows:
     description: |
       Se proponen cambios adaptados al abordaje del motivo de consulta
   - title: Paso 4
-    subtitle: Cambios y seguimientos
+    subtitle: Seguimientos
     icon: list-check
     description: |
       Aplicaras los cambios con un seguimiento durante 3 semanas en la app
@@ -32,9 +32,9 @@ rows:
     subtitle: Revisión
     icon: memo-circle-check
     description: |
-      Revisaremos y …
+      ¿Los cambios han sido efectivos?
   - title: Paso 6
-    subtitle: Final feliz
+    subtitle: Gracias por la confianza
     icon: heart
     description: |
       Sigue caminando en confianza y descubriéndoTe en amor

@@ -9,23 +9,22 @@ noindex: false
 translationKey: home
 sections:
 - file: header
-- file: frase
+- file: tecnicas
+  modals:
+  - tecnicas/osteopatia
+  - tecnicas/fisioterapia
+  - tecnicas/kinesiologia
+  - tecnicas/kbq
+  - tecnicas/pni
+  - tecnicas/jin-shin-jyutsu
+  - tecnicas/masaje-pránico
 - file: acompanamiento
   modals:
   - formularios
-- file: acompanamiento-tipos
+- file: frase
 - file: terapeuta
-- file: tecnicas-manuales
-  modals:
-  - tecnicas-manuales/osteopatia
-  - tecnicas-manuales/fisioterapia
-  - tecnicas-manuales/kinesiologia
-  - tecnicas-manuales/kbq
-  - tecnicas-manuales/pni
-  - tecnicas-manuales/jin-shin-jyutsu
-  - tecnicas-manuales/masaje-pránico
 - file: tarifas
-- file: eventos
-- file: testimonios
+# - file: eventos
+- file: opiniones
 - file: contacto
 ---

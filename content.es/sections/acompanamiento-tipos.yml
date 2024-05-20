@@ -13,7 +13,7 @@ rows:
   - icon: location-dot
     title: Sesiones Presenciales
     subtitle: en Murcia
-    link: '#tecnicas-manuales'
+    link: '#tecnicas'
   - icon: stomach
     title: Seguimiento
     subtitle: de Procesos Digestivos
