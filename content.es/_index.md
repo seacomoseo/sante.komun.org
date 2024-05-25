@@ -11,13 +11,13 @@ sections:
 - file: header
 - file: tecnicas
   modals:
+  - tecnicas/pni
   - tecnicas/osteopatia
   - tecnicas/fisioterapia
   - tecnicas/kinesiologia
   - tecnicas/kbq
-  - tecnicas/pni
   - tecnicas/jin-shin-jyutsu
-  - tecnicas/masaje-pránico
+  - tecnicas/masaje-pranico
 - file: acompanamiento
   modals:
   - formularios

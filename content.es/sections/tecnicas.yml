@@ -22,6 +22,7 @@ rows:
     link: '#osteopatia'
   - icon: hands-holding
     title: Fisioterapia
+    subtitle: Restaurar movimiento
     link: '#fisioterapia'
   - icon: hands-praying
     title: Kinesiología
@@ -37,5 +38,6 @@ rows:
     link: '#jin-shin-jyutsu'
   - icon: hand-heart
     title: Masaje Pránico
-    link: '#masaje-pránico'
+    subtitle: Movilizar memorias
+    link: '#masaje-pranico'
 

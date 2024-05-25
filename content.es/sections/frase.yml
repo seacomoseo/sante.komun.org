@@ -1,8 +1,10 @@
 anchor: Frase
 # align: right
 size: sm
-# bg: valores.jpg
-# opacity: 50
-description: |
-  > Cuando la alimentacion es mala, la medicina no funciona. cuando la alimentacion es buena, la medicina no es necesaria
-  > <cite>proverbio ayurveda</cite>
+bg: hoguera.webm
+opacity: 100
+# description: |
+#   > Cuando la alimentacion es mala, la medicina no funciona. cuando la alimentacion es buena, la medicina no es necesaria
+#   > <cite>proverbio ayurveda</cite>
+more:
+  full_screen: true

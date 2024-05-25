@@ -22,7 +22,7 @@ rows:
     more:
       align_xl: right
   - order: 3
-    image: wilhem-reich.jpg
+    image: wilhem-reich.svg
     subtitle: Wilhem Reich
   - order: 4
     title: Visión
