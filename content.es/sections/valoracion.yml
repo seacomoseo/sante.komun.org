@@ -27,7 +27,9 @@ rows:
     subtitle: Seguimientos
     icon: list-check
     description: |
-      Aplicaras los cambios con un seguimiento durante 3 semanas en la app
+      Aplicaras los cambios con un seguimiento durante 3 semanas en este diario intestinal:
+
+      [btn icon-calendar K-Calendario](k-calendario.pdf "nofollow")
   - title: Paso 5
     subtitle: Revisión
     icon: memo-circle-check

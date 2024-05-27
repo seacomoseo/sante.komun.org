@@ -16,6 +16,20 @@
   }
 }
 
+#paz {
+  .image,
+  video {
+    margin: 0;
+    width: 100%;
+  }
+}
+@media (max-width: $screen-sm) {
+  #paz,
+  #terapeuta {
+  --divider-height: 2em;
+  }
+}
+
 #terapeuta
 .column {
   &:nth-child(1n) {

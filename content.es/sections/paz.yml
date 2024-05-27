@@ -1,10 +1,10 @@
-anchor: Frase
+anchor: Paz
 # align: right
-size: sm
-bg: hoguera.webm
+size: fluid
+image: hoguera.webm#mute
 opacity: 100
 # description: |
 #   > Cuando la alimentacion es mala, la medicina no funciona. cuando la alimentacion es buena, la medicina no es necesaria
 #   > <cite>proverbio ayurveda</cite>
 more:
-  full_screen: true
+  padding_hide: true

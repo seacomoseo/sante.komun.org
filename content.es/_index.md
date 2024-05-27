@@ -18,10 +18,10 @@ sections:
   - tecnicas/kbq
   - tecnicas/jin-shin-jyutsu
   - tecnicas/masaje-pranico
-- file: acompanamiento
+- file: valoracion
   modals:
   - formularios
-- file: frase
+- file: paz
 - file: terapeuta
 - file: tarifas
 # - file: eventos
