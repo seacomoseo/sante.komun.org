@@ -1,0 +1,35 @@
+anchor: SanTe - PNI, Osteopathy, Physiotherapy, Physiotherapy, Kinesiology, KBQ, Jin Shin Jyutsu, Pranic Massage...
+bg: lavanda.webm
+# opacity: 10
+# size: md
+more:
+  full_screen: true
+  padding_top: 3
+  padding_bottom: 3
+rows:
+- type: columns
+  design:
+    num: 7
+    align_y: center
+    # align_x: left
+    align_x: center
+    underline: true
+  items:
+  - title: SanTe
+    subtitle: Health, in your hands
+    image: icon-alt-tr.svg
+    ratio: 16x9
+    order: 2
+    span: 3
+    description: |
+      Would you like to receive a second opinion to help you understand what is wrong with you?
+
+      icon-plus of 25,000 sessions performed
+
+      icon-plus of 15 years of experience
+
+      Sensitive and sensitive therapist oriented to provide creative and tailored treatment plans
+
+      [btn icon-plus More](#main)
+  # - image: leandro.png
+  #   span: 3

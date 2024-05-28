@@ -1,0 +1,47 @@
+title: Thérapeute
+subtitle: A propos de moi
+# size: md
+rows:
+- type: columns
+  design:
+    num: 2
+    underline: true
+    uppercase: true
+    gap: 5
+    align_y: center
+    align: left
+  items:
+  - order: 2
+    image: 3-cerveaux.jpg
+  - order: 1
+    title: Mission
+    description: |
+      Accompagner les processus de déséquilibre dans le corps, en essayant de donner une compréhension, nous permettant de reconnaître nos possibilités de changement afin de rétablir la fonctionnalité de l'organisme, dans le mystère et la magie de la vie.
+
+      Favoriser la connaissance de soi en activant l'observateur (écoute, re-connaissance et acceptation des processus).
+    more:
+      align_xl: right
+  - order: 3
+    image: wilhem-reich-fracais.svg
+    subtitle: Wilhem Reich
+  - order: 4
+    title: Vision
+    description: |
+      La biologie humaine est intelligente et a la capacité de trouver et d'activer les changements nécessaires au maintien de l'équilibre. Cependant, notre interaction avec le corps peut entraver ou faciliter ses processus naturels.
+
+      De plus, le corps humain est exposé à un grand nombre de toxines (aliments, vêtements synthétiques, médicaments, hormones de laboratoire, microplastiques, radiations...), nous accumulons donc de la toxicité, ce qui entrave les fonctions organiques.
+
+      Rendre visible ce que l'on ne voit pas, permet de réagir, et de générer de nouvelles voies dans notre mode de vie.
+  - order: 6
+    image: valores.jpg
+  - order: 5
+    title: Valeurs
+    description: |
+      Reconnaître le changement de la nature, des éléments, m'aide à cheminer en tant qu'être humain. Sentir la terre, la fluidité de l'eau, la chaleur et la transformation que le feu enseigne, la confiance de l'air qui m'atteint, le tout soutenu par l'énergie de l'amour ; un temps qui m'a été donné, en tant que matière et esprit.
+
+      Il existe un équilibre entre construction et destruction, c'est-à-dire une transformation constante, et dans le présent, à l'intérieur et à l'extérieur de notre corps : os, muscles, cellules, bactéries, virus, micro-organismes, champignons, houmous, mycélium, troncs, feuilles, fruits, nuages... La vie n'existe pas sans la mort.
+
+      Je suis un chemin, abandonné au sensoriel, et j'explore les possibilités en action, ici et maintenant, dans ce corps, en essayant d'écouter la symphonie de la vie orchestrée par le monde invisible.
+    more:
+      align_xl: right
+

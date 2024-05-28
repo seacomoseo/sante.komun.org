@@ -12,7 +12,7 @@ rows:
     align: left
   items:
   - order: 2
-    image: los-3-cerebros.jpg
+    image: 3-cerebros.jpg
   - order: 1
     title: Misión
     description: |

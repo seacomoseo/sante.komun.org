@@ -10,7 +10,7 @@ params:
   drive_link: https://drive.google.com/file/d/1RWjJbfwon3qAqhZkfz_wJaot6Kh5ez1-
   drive_mails: telioleito21@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: []
 languages:
   es:
     paginatePath: pagina
@@ -33,3 +33,45 @@ languages:
         tags: etiquetas
         authors: autores
         custom: personalizadas
+  en:
+    paginatePath: page
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: event/:year/:month/:day/:slug
+        products: product/:slug
+        categories: category/:slug
+        tags: tag/:slug
+        authors: author/:slug
+        custom: :slug
+      section:
+        pages: pages
+        blog: blog
+        events: events
+        products: products
+        categories: categories
+        tags: tags
+        authors: authors
+        custom: custom
+  fr:
+    paginatePath: page
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evenement/:year/:month/:day/:slug
+        products: produit/:slug
+        categories: categorie/:slug
+        tags: etiquette/:slug
+        authors: auteur/:slug
+        custom: :slug
+      section:
+        pages: pages
+        blog: blog
+        events: evenements
+        products: produits
+        categories: categories
+        tags: etiquettes
+        authors: auteurs
+        custom: personnalise

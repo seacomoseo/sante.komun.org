@@ -1,0 +1,64 @@
+title: Tarifs
+# size: xl
+rows:
+- type: columns
+  design:
+    num: 4
+    color: main
+    gradient: main-dark
+    gradient_type: linear-b
+    # align_y: top
+    underline: true
+    link: '#contact'
+    label: Contact
+    licon: paper-plane
+    slider: true
+    interval: 8
+  items:
+  - icon: glasses-round
+    title: Autognosis
+    subtitle: Online
+    price: 30 €
+    description: |
+      icon-clock 20min
+
+      - icon-check Etude des formes
+  - icon: arrow-pointer
+    title: Online
+    subtitle: Session individuelle
+    price: 70 €
+    description: |
+      icon-clock 1h
+
+      - icon-check 1er entretien
+      - icon-check Propositions de changement
+  - icon: location-dot
+    title: En personne
+    subtitle: Séance individuelle
+    price: 80 €
+    description: |
+      icon-clock 1h 30min
+
+      - icon-check Techniques manuelles
+  # - icon: bullseye-arrow
+  #   title: Pack Online
+  #   subtitle: Online
+  #   price: 100 €
+  #   description: |
+  #     icon-clock ¿?
+
+  #     - icon-check Etude des formulaires
+  #     - icon-check 1er entretien
+  #     - icon-check Propositions de changement
+  - icon: hand-holding-hand
+    title: Offre
+    subtitle: Paquet
+    price: 120 €
+    description: |
+      icon-clock 2h
+
+      - icon-check Etude des formulaires
+      - icon-check 1er entretien
+      - icon-check Propositions de changement
+      - icon-check Techniques manuelles
+      - icon-check Réductions dans les sessions suivantes

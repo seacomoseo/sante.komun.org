@@ -1,0 +1,35 @@
+anchor: SanTe - PNI, Ostéopathie, Physiothérapie, Kinésiologie, KBQ, Jin Shin Jyutsu, Massage Pranique...
+bg: lavanda.webm
+# opacity: 10
+# size: md
+more:
+  full_screen: true
+  padding_top: 3
+  padding_bottom: 3
+rows:
+- type: columns
+  design:
+    num: 7
+    align_y: center
+    # align_x: left
+    align_x: center
+    underline: true
+  items:
+  - title: SanTe
+    subtitle: La santé, entre vos mains
+    image: icon-alt-tr.svg
+    ratio: 16x9
+    order: 2
+    span: 3
+    description: |
+      Souhaitez-vous recevoir un deuxième avis pour vous aider à comprendre ce qui ne va pas?
+
+      icon-plus de 25.000 séances réalisées
+
+      icon-plus de 15 ans d'expérience
+
+      Thérapeute sensible et orienté vers des plans de traitement créatifs adaptés à vos besoins.
+
+      [btn icon-plus Plus d\'informations](#principal)
+  # - image: leandro.png
+  #   span: 3

@@ -1,0 +1,43 @@
+title: Techniques
+subtitle: Assessment methods and techniques used in the sessions
+rows:
+- type: columns
+  design:
+    num: 4
+    # num_xs: true
+    color: main
+    gradient: main-dark
+    gradient_type: linear-b
+    # uppercase: true
+    underline: true
+    pill: true
+  items:
+  - icon: brain
+    title: PNI
+    subtitle: PsychoNeuroImmunology
+    link: '#pni'
+  - icon: hand-holding-hand
+    title: Osteopathic Manual
+    # subtitle: Osteopathic Manual Techniques
+    link: '#osteopathy'
+  - icon: hands-holding
+    title: Physiotherapy
+    subtitle: Restore movement
+    link: '#physiotherapy'
+  - icon: hands-praying
+    title: Kinesiology
+    subtitle: Your body responds
+    link: '#kinesiology'
+  - icon: stomach
+    title: BQK
+    subtitle: Biochemical Kinesiology
+    link: '#bqk'
+  - icon: hand-sparkles
+    title: Jin Shin Jyutsu
+    subtitle: Restoring Energy
+    link: '#jin-shin-jyutsu'
+  - icon: hand-heart
+    title: Pranic Massage
+    subtitle: Mobilizing memories
+    link: '#pranic-massage'
+

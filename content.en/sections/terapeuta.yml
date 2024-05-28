@@ -1,0 +1,47 @@
+title: Therapist
+subtitle: About me
+# size: md
+rows:
+- type: columns
+  design:
+    num: 2
+    underline: true
+    uppercase: true
+    gap: 5
+    align_y: center
+    align: left
+  items:
+  - order: 2
+    image: 3-brains.jpg
+  - order: 1
+    title: Mission
+    description: |
+      To accompany in the processes of imbalance of the body, trying to give understanding, allowing us to recognize our possibilities of change to restore the functionality of the organism, within the mystery and magic of life.
+
+      To promote self-knowledge by activating the observer (listening, re-knowing and accepting the processes).
+    more:
+      align_xl: right
+  - order: 3
+    image: wilhem-reich-english.svg
+    subtitle: Wilhem Reich
+  - order: 4
+    title: Vision
+    description: |
+      Human biology is intelligent, and has the capacity to find and activate the necessary changes to maintain balance. However, our interaction with the body can hinder or facilitate its natural processes.
+
+      In addition, the human body is exposed to a large number of toxins (food, synthetic clothing, drugs, laboratory hormones, microplastics, radiation ...), so we accumulate toxicity, thus hindering the organic functions.
+
+      Making visible what we do not see, allows us to react, and generate new ways in our lifestyle.
+  - order: 6
+    image: valores.jpg
+  - order: 5
+    title: Values
+    description: |
+      To recognize the change in nature, in the elements, helps me to walk as a Human being. To feel the earth, the fluidity of water, the warmth and transformation that fire teaches, the confidence of the air that reaches me, and all sustained with the energy of love; a time that has been given to me, as matter and spirit.
+
+      There is a balance between construction and destruction, that is to say, a constant transformation, and in the present, both inside and outside our body: bones, muscles, cells, bacteria, viruses, microorganisms, fungi, hummus, mycelium, trunks, leaves, fruits, clouds... Life does not exist without death.
+
+      I follow a path, surrendered to the sensory, and exploring the possibilities in action, here and now, in this body, trying to listen to the symphony of life orchestrated by the invisible world.
+    more:
+      align_xl: right
+

@@ -1,4 +1,4 @@
-title: Contacto
+title: Contact
 button: link
 size: xs
 rows:
@@ -23,16 +23,16 @@ rows:
     fill_inputs: false
     items:
     - type: text
-      name: Nombre
+      name: Nom et prénom
       required: true
     - type: tel
-      name: Teléfono
+      name: Téléphone
     - type: email
       name: Email
       required: true
     - type: textarea
-      name: Mensaje
-      placeholder: Motivo de consulta
+      name: Message
+      placeholder: Motif de la demande
       required: true
   map:
     active: false

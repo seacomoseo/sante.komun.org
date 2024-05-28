@@ -1,0 +1,42 @@
+title: Évaluation
+subtitle: Pouvons-nous commencer?
+rows:
+- type: steps
+  design:
+    underline: true
+    # icon_size: 5
+  items:
+  - title: Étape 1
+    subtitle: Informations
+    icon: circle-info
+    description: |
+      Remplissez les formulaires et parlons des informations que vous avez recueillies.
+
+      [btn icon-list Formulaires](#formulaires)
+  - title: Étape 2 Entretien
+    subtitle: L'entretien
+    icon: comments
+    description: |
+      Si vous souhaitez aller plus loin, nous mènerons un entretien au cours duquel nous ajouterons des informations intéressantes qui nous aideront à obtenir une vision plus précise de ce qui se passe (signes, symptômes, antécédents...).
+  - title: Étape 3
+    subtitle: Proposition
+    icon: bullseye-arrow
+    description: |
+      Nous proposons des changements adaptés à l'approche du motif de la consultation.
+  - title: Étape 4
+    subtitle: Suivi
+    icon: list-check
+    description: |
+      Vous mettrez en œuvre les changements avec un suivi de 3 semaines dans ce journal intestinal :
+
+      [btn icon-calendar K-Calendrier](k-calendario.pdf "nofollow")
+  - title: Étape 5
+    subtitle: Bilan
+    icon: memo-circle-check
+    description: |
+      Les changements ont-ils été efficaces ?
+  - title: Étape 6
+    subtitle: Merci pour la confiance
+    icon: heart
+    description: |
+      Continuez à marcher dans la confiance et à vous découvrir dans l'amour.

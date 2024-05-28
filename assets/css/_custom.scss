@@ -1,21 +1,27 @@
 // Header Animations
 
-#body-inicio #header {
-  .image {
-    @extend %draw;
-  }
-  @mixin show-from($delay) {
-    animation: show-from .5s (.5 + .25s * $delay) both;
-  }
-  .section__title {       @include show-from(1); }
-  .subtitle {             @include show-from(2); }
-  .description p {        @include show-from(3); }
-  .description .buttons { @include show-from(4); }
-  .column--item-2 {
-    margin-bottom: -4em;
+#body-home,
+#body-accueil,
+#body-inicio {
+  #header {
+    .image {
+      @extend %draw;
+    }
+    @mixin show-from($delay) {
+      animation: show-from .5s (.5 + .25s * $delay) both;
+    }
+    .section__title {       @include show-from(1); }
+    .subtitle {             @include show-from(2); }
+    .description p {        @include show-from(3); }
+    .description .buttons { @include show-from(4); }
+    .column--item-2 {
+      margin-bottom: -4em;
+    }
   }
 }
 
+#peace,
+#paix,
 #paz {
   .image,
   video {
@@ -24,34 +30,43 @@
   }
 }
 @media (max-width: $screen-sm) {
+  #peace,
+  #paix,
   #paz,
+  #therapist,
+  #therapeute,
   #terapeuta {
   --divider-height: 2em;
   }
 }
 
-#terapeuta
-.column {
-  &:nth-child(1n) {
-    transform: perspective(20em) rotateY(-6deg);
-  }
-  &:nth-child(2n) {
-    transform: perspective(20em) rotateY(6deg);
-  }
-  @media (min-width: $screen-max) {
-    &:nth-child(1),
-    &:nth-child(4),
-    &:nth-child(5) {
+#therapist,
+#therapeute,
+#terapeuta {
+  .column {
+    &:nth-child(1n) {
       transform: perspective(20em) rotateY(-6deg);
     }
-    &:nth-child(2),
-    &:nth-child(3),
-    &:nth-child(6) {
+    &:nth-child(2n) {
       transform: perspective(20em) rotateY(6deg);
+    }
+    @media (min-width: $screen-max) {
+      &:nth-child(1),
+      &:nth-child(4),
+      &:nth-child(5) {
+        transform: perspective(20em) rotateY(-6deg);
+      }
+      &:nth-child(2),
+      &:nth-child(3),
+      &:nth-child(6) {
+        transform: perspective(20em) rotateY(6deg);
+      }
     }
   }
 }
 
+#rates,
+#tarifs,
 #tarifas {
   .column__description {
     margin-top: 0;

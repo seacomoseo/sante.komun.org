@@ -1,0 +1,10 @@
+anchor: Paix
+# align: right
+size: fluid
+image: hoguera.webm#mute
+opacity: 100
+# description: |
+#   > Lorsque la nourriture est mauvaise, les médicaments ne fonctionnent pas. Lorsque la nourriture est bonne, les médicaments ne sont pas nécessaires.
+#   > <cite>proverbe ayurvédique</cite>
+more:
+  padding_hide: true

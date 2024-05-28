@@ -1,0 +1,22 @@
+title: Opinions
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: light
+    slider: true
+    interval: 8
+  items:
+  - title: Licorne Chene
+    description: |
+      La rencontre avec ce professinnel de santé est une grande aide pour retrouver une bonne santé à différent niveau.
+      
+      Son accompagnement et son suivie trés sérieux est unique, avec des techniques profondes.
+      
+      Une guidance précieuse pour me responsabiliser dans ma santé
+      
+      Merci.
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Plus d'avis](https://g.page/r/CTpYR3QOc9TQEBM/review "noindex")

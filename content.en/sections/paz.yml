@@ -1,0 +1,10 @@
+anchor: Peace
+# align: right
+size: fluid
+image: hoguera.webm#mute
+opacity: 100
+# description: |
+#   > When food is bad, medicine does not work. when food is good, medicine is not necessary.
+#   > <cite>ayurvedic proverb</cite>
+more:
+  padding_hide: true

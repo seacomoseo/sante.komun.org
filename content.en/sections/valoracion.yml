@@ -1,0 +1,42 @@
+title: Valuation
+subtitle: Shall we start?
+rows:
+- type: steps
+  design:
+    underline: true
+    # icon_size: 5
+  items:
+  - title: Step 1
+    subtitle: Information
+    icon: circle-info
+    description: |
+      Fill in the forms, and let's talk about the information you obtained.
+
+      [btn icon-list Forms](#forms)
+  - title: Step 2
+    subtitle: Interview
+    icon: comments
+    description: |
+      If you want to go deeper, we will conduct an interview where we will add information of interest that will help to have a more specific vision of what is happening (signs, symptoms, background history...).
+  - title: Step 3
+    subtitle: Proposal
+    icon: bullseye-arrow
+    description: |
+      We propose changes adapted to the approach of the reason for the consultation.
+  - title: Step 4
+    subtitle: Follow-up
+    icon: list-check
+    description: |
+      You will implement the changes with a 3-week follow-up in this bowel diary:
+
+      [btn icon-calendar K-Calendar](k-calendario.pdf "nofollow")
+  - title: Step 5
+    subtitle: Review
+    icon: memo-circle-check
+    description: |
+      Have the changes been effective?
+  - title: Step 6 Review
+    subtitle: Thank you for the trust
+    icon: heart
+    description: |
+      Keep walking in trust and discovering yourself in love.

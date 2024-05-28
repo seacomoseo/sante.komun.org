@@ -1,0 +1,22 @@
+title: Reviews
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: light
+    slider: true
+    interval: 8
+  items:
+  - title: Licorne Chene
+    description: |
+      Meeting this health professional is a great help to regain good health at all levels.
+
+      Her very serious support and follow up is unique, with in depth techniques.
+
+      He provides invaluable guidance to help me take responsibility for my health.
+
+      Thank you.
+- type: columns
+  items:
+  - description: |
+      [btn icon-star More Reviews](https://g.page/r/CTpYR3QOc9TQEBM/review "noindex")

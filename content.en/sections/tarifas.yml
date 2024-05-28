@@ -1,0 +1,64 @@
+title: Rates
+# size: xl
+rows:
+- type: columns
+  design:
+    num: 4
+    color: main
+    gradient: main-dark
+    gradient_type: linear-b
+    # align_y: top
+    underline: true
+    link: '#contact'
+    label: Contact
+    licon: paper-plane
+    slider: true
+    interval: 8
+  items:
+  - icon: glasses-round
+    title: Autognosis
+    subtitle: Online
+    price: 30 €
+    description: |
+      icon-clock 20min
+
+      - icon-check Study of forms
+  - icon: arrow-pointer
+    title: Online
+    subtitle: Individual Session
+    price: 70 €
+    description: |
+      icon-clock 1h
+
+      - icon-check 1st Interview
+      - icon-check Proposals for change
+  - icon: location-dot
+    title: Presential
+    subtitle: Individual Session
+    price: 80 €
+    description: |
+      icon-clock 1h 30min
+
+      - icon-check Manual Techniques
+  # - icon: bullseye-arrow
+  #   title: Pack Online
+  #   subtitle: Online
+  #   price: 100 €
+  #   description: |
+  #     icon-clock ¿?
+
+  #     - icon-check Study of forms
+  #     - icon-check 1st Interview
+  #     - icon-check Proposals for change
+  - icon: hand-holding-hand
+    title: Offer
+    subtitle: Pack
+    price: 120 €
+    description: |
+      icon-clock 2h
+
+      - icon-check Study of forms
+      - icon-check 1st Interview
+      - icon-check Proposals for change
+      - icon-check Manual Techniques
+      - icon-check Discounts in following sessions

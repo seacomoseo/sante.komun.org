@@ -1,0 +1,43 @@
+title: Techniques
+subtitle: Méthodes d'évaluation et techniques utilisées dans les sessions
+rows:
+- type: columns
+  design:
+    num: 4
+    # num_xs: true
+    color: main
+    gradient: main-dark
+    gradient_type: linear-b
+    # uppercase: true
+    underline: true
+    pill: true
+  items:
+  - icon: brain
+    title: PNI
+    subtitle: PsychoNeuroImmunologie
+    link: '#pni'
+  - icon: hand-holding-hand
+    title: Manuelle Ostéopathique
+    # subtitle: Techniques Manuelle Ostéopathique
+    link: '#osteopathie'
+  - icon: hands-holding
+    title: Physiothérapie
+    subtitle: Rétablir le mouvement
+    link: '#physiotherapie'
+  - icon: hands-praying
+    title: Kinésiologie
+    subtitle: Votre corps réagit
+    link: '#kinesiologie'
+  - icon: stomach
+    title: KBQ
+    subtitle: Kinésiologie Biochimique
+    link: '#kbq'
+  - icon: hand-sparkles
+    title: Jin Shin Jyutsu
+    subtitle: Restauration de l'énergie
+    link: '#jin-shin-jyutsu'
+  - icon: hand-heart
+    title: Massage Pranique
+    subtitle: Mobiliser les mémoires
+    link: '#massage-pranique'
+
