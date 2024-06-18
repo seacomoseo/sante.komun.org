@@ -16,7 +16,29 @@ langs_in_more: false
 langs_out: true
 callnow_active: true
 callnow_buttons: []
-normal: # []
-# - label: Eventos
-#   link: /eventos/
+normal: []
 more: []
+es:
+  callnow_buttons:
+  - type: custom
+    link: https://t.me/+34651103119
+    icon: telegram
+    label: Pulsa para contactar por Telegram
+    ofuscate: true
+    ga4: true
+en:
+  callnow_buttons:
+  - type: custom
+    link: https://t.me/+34651103119
+    icon: telegram
+    label: Click to contact by Telegram
+    ofuscate: true
+    ga4: true
+fr:
+  callnow_buttons:
+  - type: custom
+    link: https://t.me/+34651103119
+    icon: telegram
+    label: Cliquez pour contacter par télégramme
+    ofuscate: true
+    ga4: true

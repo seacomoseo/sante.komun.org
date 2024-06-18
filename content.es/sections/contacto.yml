@@ -1,15 +1,20 @@
 title: Contacto
 button: link
-size: xs
+size: sm
 rows:
 - type: contact
   data:
   # - type: schedule
   #   days: Lunes a Viernes
   #   hours: 9:00 - 12:30 y 14:30 - 20:00
-  - type: whatsapp
-    label: +34 643 490 459
-    button: link
+  - type: phone
+    label: +34 651 103 119
+  - type: custom
+    link: https://t.me/+34651103119
+    icon: telegram
+    label: +34 651 103 119
+    ofuscate: true
+    ga4: true
   - type: address
     active: false
     name: SanTe
