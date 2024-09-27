@@ -1,8 +1,6 @@
 // Header Animations
 
-#body-home,
-#body-accueil,
-#body-inicio {
+#body-home {
   #header {
     .image {
       @extend %draw;

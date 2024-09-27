@@ -7,7 +7,7 @@ rows:
     slider: true
     interval: 8
   items:
-  - title: Licorne Chene
+  - title: Licorne C.
     description: |
       Meeting this health professional is a great help to regain good health at all levels.
 
@@ -16,6 +16,20 @@ rows:
       He provides invaluable guidance to help me take responsibility for my health.
 
       Thank you.
+  - title: Josefina M.
+    description: |
+      For a long time I had felt aimless and with a lot of heaviness, I am very grateful for having coincided with SanTe, the therapies he shared with me have been very helpful, they have strengthened me significantly and I am on my way to new habits.
+
+      100% recommended 👍
+  - title: Emma S.
+    description: |
+      The healing sessions with Sante were profoundly transformative.
+
+      His extensive knowledge and expertise created a powerful and supportive environment.
+
+      He holds space with deep compassion, making me feel understood and empowered.
+
+      I’ve been equipped with practical tools to implement in my daily life, helping me to make meaningful changes and discover my path forward.
 - type: columns
   items:
   - description: |

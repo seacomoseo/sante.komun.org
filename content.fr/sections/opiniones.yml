@@ -7,7 +7,7 @@ rows:
     slider: true
     interval: 8
   items:
-  - title: Licorne Chene
+  - title: Licorne C.
     description: |
       La rencontre avec ce professinnel de santé est une grande aide pour retrouver une bonne santé à différent niveau.
       
@@ -16,6 +16,20 @@ rows:
       Une guidance précieuse pour me responsabiliser dans ma santé
       
       Merci.
+  - title: Josefina M.
+    description: |
+      Depuis longtemps je me sentais sans but et avec beaucoup de lourdeur, je suis très reconnaissante d'avoir rencontré SanTe, les thérapies qu'il a partagées avec moi ont été très utiles, elles m'ont renforcé de manière significative et je suis en route vers de nouvelles habitudes.
+
+      Recommandé à 100% 👍
+  - title: Emma S.
+    description: |
+      Les séances de guérison avec Sante ont été profondément transformatrices.
+
+      Ses vastes connaissances et son expertise ont créé un environnement puissant et favorable.
+
+      Il maintient l'espace avec une profonde compassion, me faisant me sentir comprise et responsabilisée.
+
+      J'ai reçu des outils pratiques à mettre en œuvre dans ma vie quotidienne, ce qui m'a aidé à faire des changements significatifs et à découvrir mon chemin.
 - type: columns
   items:
   - description: |

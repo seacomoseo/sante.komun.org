@@ -1,4 +1,4 @@
-title: Valuation
+title: The Journey
 subtitle: Shall we start?
 rows:
 - type: steps
@@ -10,19 +10,19 @@ rows:
     subtitle: Information
     icon: circle-info
     description: |
-      Fill in the forms, and let's talk about the information you obtained.
+      Fill in the forms, and let’s talk about the information you gathered about yourself.
 
       [btn icon-list Forms](#forms)
   - title: Step 2
-    subtitle: Interview
+    subtitle: Let’s have a chat
     icon: comments
     description: |
-      If you want to go deeper, we will conduct an interview where we will add information of interest that will help to have a more specific vision of what is happening (signs, symptoms, background history...).
+      In order to get a better idea of what is happening and a potential root cause of your symptoms, we will talk with you in some more depth about the information you have provided and any other relevant details you may give us.
   - title: Step 3
     subtitle: Proposal
     icon: bullseye-arrow
     description: |
-      We propose changes adapted to the approach of the reason for the consultation.
+      Based on the results of your consultation, we will provide a recommend with what changes to make.
   - title: Step 4
     subtitle: Follow-up
     icon: list-check
@@ -39,4 +39,4 @@ rows:
     subtitle: Thank you for the trust
     icon: heart
     description: |
-      Keep walking in trust and discovering yourself in love.
+      Continue your journey with trust, love and discover YOU.

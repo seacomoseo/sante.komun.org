@@ -1,4 +1,4 @@
-title: Techniques
+title: Treatments
 subtitle: Assessment methods and techniques used in the sessions
 rows:
 - type: columns
@@ -14,7 +14,7 @@ rows:
   items:
   - icon: brain
     title: PNI
-    subtitle: PsychoNeuroImmunology
+    subtitle: Psycho Neuro Immunology
     link: '#pni'
   - icon: hand-holding-hand
     title: Osteopathic Manual
@@ -29,15 +29,15 @@ rows:
     subtitle: Your body responds
     link: '#kinesiology'
   - icon: stomach
-    title: BQK
+    title: BCK
     subtitle: Biochemical Kinesiology
-    link: '#bqk'
+    link: '#bck'
   - icon: hand-sparkles
     title: Jin Shin Jyutsu
     subtitle: Restoring Energy
     link: '#jin-shin-jyutsu'
   - icon: hand-heart
     title: Pranic Massage
-    subtitle: Mobilizing memories
+    subtitle: Trigger Memories
     link: '#pranic-massage'
 

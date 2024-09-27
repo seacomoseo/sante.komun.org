@@ -22,13 +22,13 @@ rows:
     order: 2
     span: 3
     description: |
-      Would you like to receive a second opinion to help you understand what is wrong with you?
+      Would you like to receive a second opinion to help understand what is causing your symptoms?
 
-      icon-plus of 25,000 sessions performed
+      icon-plus More than 25,000 sessions performed
 
-      icon-plus of 15 years of experience
+      icon-plus More than 15 years of experience
 
-      Sensitive and sensitive therapist oriented to provide creative and tailored treatment plans
+      Tailor-made, creative treatment plans provided by a sensitive therapist
 
       [btn icon-plus More](#main)
   # - image: leandro.png

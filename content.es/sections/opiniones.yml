@@ -7,7 +7,7 @@ rows:
     slider: true
     interval: 8
   items:
-  - title: Licorne Chene
+  - title: Licorne C.
     description: |
       Conocer a este profesional de la salud es una gran ayuda para recuperar la buena salud a todos los niveles.
 
@@ -16,6 +16,20 @@ rows:
       Me proporciona una orientación inestimable para ayudarme a responsabilizarme de mi salud.
 
       Gracias.
+  - title: Josefina M.
+    description: |
+      Por mucho tiempo me había sentido sin rumbo y con mucha pesadez, agradezco mucho por haber coincidido con SanTe me han sido de mucha ayuda las terapias que compartió conmigo, me han fortalecido de manera significativa y estoy encaminada hacia nuevos hábitos.
+
+      100% recomendado 👍
+  - title: Emma S.
+    description: |
+      Las sesiones de sanación con Sante fueron profundamente transformadoras.
+
+      Sus amplios conocimientos y experiencia crearon un entorno poderoso y de apoyo.
+
+      Mantiene el espacio con profunda compasión, haciéndome sentir comprendida y empoderada.
+
+      He sido equipada con herramientas prácticas para implementar en mi vida diaria, ayudándome a hacer cambios significativos y descubrir mi camino hacia adelante.
 - type: columns
   items:
   - description: |
