@@ -14,13 +14,20 @@ rows:
     interval: 8
   items:
   - icon: glasses-round
-    title: Autognosis
+    title: Ap.Digestivo
     subtitle: Online
-    price: ' €'
-    description: |
+    price: ' 30€'
+    description: |+
       icon-clock 20min
 
-      - icon-check Estudio de formularios
+      - icon-check Aprender sobre tu salud
+      - icon-check Conocerte en profundidad
+      - icon-check Estudio de formularios con Videollamada
+      - icon-check Resolver dudas
+
+
+
+
   - icon: arrow-pointer
     title: Online
     subtitle: Sesión Individual
@@ -34,19 +41,11 @@ rows:
     title: Presencial
     subtitle: Terapias Manuales
     price: 60 €
-    description: |+
+    description: |
       icon-clock 1h 30min
 
       - icon-check Valoracion de lesión
       - icon-check Fisioterapia y Osteopatia
-
-
-
-
-
-
-
-
   - icon: hand-holding-hand
     title: Oferta
     subtitle: Pack
