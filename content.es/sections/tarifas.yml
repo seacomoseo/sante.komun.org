@@ -31,30 +31,65 @@ rows:
   - icon: arrow-pointer
     title: Online
     subtitle: Sesión Individual
-    price: 70 €
-    description: |
+    price: 50 €
+    description: |+
       icon-clock 1h
 
-      - icon-check 1ª Entrevista
+      - icon-check PNI 
       - icon-check Propuestas de cambio
+
+
+
+
   - icon: location-dot
     title: Presencial
     subtitle: Terapias Manuales
     price: 60 €
-    description: |
-      icon-clock 1h 30min
+    description: |+
+      icon-clock 1h 15min
 
       - icon-check Valoracion de lesión
       - icon-check Fisioterapia y Osteopatia
+      - icon-check Kinesiologia
+
+
+
+
+
+
+
+
   - icon: hand-holding-hand
-    title: Oferta
+    title: En Profundidad
     subtitle: Pack
     price: 120 €
-    description: |
+    description: |+
+      icon-clock 1:30h
+
+      - icon-check PNI
+      - icon-check Fisioterapia
+      - icon-check Osteopatia
+      - icon-check Kinesiologia
+      - icon-chek Coherencia 3 cerebros
+
+
+
+
+
+
+
+
+  - title: Kinesiologia
+    subtitle: Bioquimica
+    price: 150 €
+    description: |+
       icon-clock 2h
 
-      - icon-check Estudio de formularios
-      - icon-check 1ª Entrevista
-      - icon-check Propuestas de cambio
-      - icon-check Técnicas Manuales
-      - icon-check Descuentos en siguientes sesiones
+      - icon-check Valoracion del Sistema digestivo
+      - icon-check Valoración del Sistema Nervioso
+      - icon-check Dossier de cambios adaptados
+      - icon-check Encontrar coherencia 3 cerebros
+
+
+
+
