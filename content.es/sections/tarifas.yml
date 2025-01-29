@@ -74,12 +74,12 @@ rows:
     subtitle: Bioquimica
     price: 150 €
     description: |+
-      icon-clock 2h
+      icon-clock 
 
-      - icon-check Valoracion del Sistema digestivo
+      - icon-check Dossier Especifico de cambios
       - icon-check Valoración del Sistema Nervioso
-      - icon-check Dossier de cambios adaptados
-      - icon-check Encontrar coherencia 3 cerebros
+      - icon-check Valoracion del Sistema digestivo
+      - icon-check Coherencia 3 cerebros
 
 
 
