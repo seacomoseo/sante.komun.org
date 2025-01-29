@@ -20,9 +20,8 @@ rows:
     description: |+
       icon-clock 20min
 
-      - icon-check Aprender sobre tu salud
-      - icon-check Conocerte en profundidad
       - icon-check Estudio de formularios con Videollamada
+      - icon-check Aprender sobre funcionamiento Digestivo
       - icon-check Resolver dudas
 
 
@@ -64,17 +63,13 @@ rows:
     subtitle: Pack
     price: 120 €
     description: |+
-      icon-clock 1:30h
+      icon-clock 1h 30min
 
       - icon-check PNI
       - icon-check Fisioterapia
       - icon-check Osteopatia
       - icon-check Kinesiologia
       - icon-chek Coherencia 3 cerebros
-
-
-
-
 
 
 
@@ -93,3 +88,4 @@ rows:
 
 
 
+    icon: star-half-stroke
