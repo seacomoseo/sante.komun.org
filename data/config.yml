@@ -1,5 +1,8 @@
 title: SanTe
-description: ¿Quieres recibir una segunda opinión que te ayude a comprender lo que te ocurre? + de 25.000 sesiones realizadas y + de 15 años de experiencia. Terapeuta sensible y orientado a proporcionar planes de tratamiento creativos y adaptados.
+description: ' Si lo necesitas, puedes encontrarlo, con ayuda es mas fácil.  +
+  de 25.000 sesiones realizadas y + de 15 años de experiencia. Terapeuta
+  sensible y orientado a proporcionar planes de tratamiento creativos y
+  adaptados.'
 logo: logo.png
 legal_name: ''
 legal_dni: ''
@@ -35,7 +38,76 @@ custom_code:
     lang: javascript
 social:
 - link: https://g.page/r/CTpYR3QOc9TQEBM
+es:
+  logo: logo.png
+  country: España
+  analytics_pagespeed: true
+  process_all_images: false
+  cms: true
+  cookies_legal: false
+  cms_editorial_workflow: false
+  development: false
+  custom_code:
+    html_head:
+      lang: html
+      code: ''
+    html_body:
+      lang: html
+      code: ''
+    css:
+      lang: css
+      code: ''
+    js:
+      lang: javascript
+      code: ''
 en:
-  description: Would you like to get a second opinion to help you understand what is happening to you? + than 25,000 sessions and + than 15 years of experience in the field.
+  description: Would you like to get a second opinion to help you understand what
+    is happening to you? + than 25,000 sessions and + than 15 years of
+    experience in the field.
+  logo: logo.png
+  country: España
+  cookies_legal: false
+  analytics_pagespeed: true
+  process_all_images: false
+  cms: true
+  cms_editorial_workflow: false
+  development: false
+  custom_code:
+    html_head:
+      lang: html
+      code: ''
+    html_body:
+      lang: html
+      code: ''
+    css:
+      lang: css
+      code: ''
+    js:
+      lang: javascript
+      code: ''
 fr:
-  description: Vous souhaitez avoir un deuxième avis pour vous aider à comprendre ce qui vous arrive ? 25 000 séances et plus de 15 ans d'expérience dans le domaine.
+  description: Vous souhaitez avoir un deuxième avis pour vous aider à comprendre
+    ce qui vous arrive ? 25 000 séances et plus de 15 ans d'expérience dans le
+    domaine.
+  logo: logo.png
+  country: España
+  cookies_legal: false
+  analytics_pagespeed: true
+  process_all_images: false
+  cms: true
+  cms_editorial_workflow: false
+  development: false
+  custom_code:
+    html_head:
+      lang: html
+      code: ''
+    html_body:
+      lang: html
+      code: ''
+    css:
+      lang: css
+      code: ''
+    js:
+      lang: javascript
+      code: ''
+slug: sante
