@@ -45,15 +45,11 @@ rows:
     subtitle: Terapias Manuales
     price: 60 €
     description: |+
-      icon-clock 1h 15min
+      icon-clock 1h 
 
       - icon-check Valoracion de lesión
       - icon-check Fisioterapia y Osteopatia
       - icon-check Kinesiologia
-
-
-
-
 
 
 
