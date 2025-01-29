@@ -6,10 +6,12 @@ rows:
     underline: true
   items:
   - title: Paso 1
-    subtitle: Información
+    subtitle: El principio
     icon: circle-info
-    description: |
-      Rellena los formularios, y hablemos de la información que obtuviste
+    description: >
+      Describe tu dia a dia contestando las preguntas sobre hábitos de vida y
+      avanza hacia el cambio que quieres tener.
+
 
       [btn icon-list Formularios](#formularios)
   - title: Paso 2
