@@ -1,5 +1,4 @@
 title: Tarifas
-# size: xl
 rows:
 - type: columns
   design:
@@ -7,7 +6,6 @@ rows:
     color: main
     gradient: main-dark
     gradient_type: linear-b
-    # align_y: top
     underline: true
     link: '#contacto'
     label: Contacto
@@ -18,7 +16,7 @@ rows:
   - icon: glasses-round
     title: Autognosis
     subtitle: Online
-    price: 30 €
+    price: ' €'
     description: |
       icon-clock 20min
 
@@ -34,22 +32,21 @@ rows:
       - icon-check Propuestas de cambio
   - icon: location-dot
     title: Presencial
-    subtitle: Sesión Individual
-    price: 80 €
-    description: |
+    subtitle: Terapias Manuales
+    price: 60 €
+    description: |+
       icon-clock 1h 30min
 
-      - icon-check Técnicas Manuales
-  # - icon: bullseye-arrow
-  #   title: Pack Online
-  #   subtitle: Online
-  #   price: 100 €
-  #   description: |
-  #     icon-clock ¿?
+      - icon-check Valoracion de lesión
+      - icon-check Fisioterapia y Osteopatia
 
-  #     - icon-check Estudio de formularios
-  #     - icon-check 1ª Entrevista
-  #     - icon-check Propuestas de cambio
+
+
+
+
+
+
+
   - icon: hand-holding-hand
     title: Oferta
     subtitle: Pack
