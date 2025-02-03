@@ -59,27 +59,24 @@ rows:
     subtitle: Pack
     price: 120 €
     description: |+
-      icon-clock 1h 30min
+      icon-clock 1h 45min
 
       - icon-check PNI
       - icon-check Fisioterapia
       - icon-check Osteopatia
-      - icon-check Kinesiologia
-      - icon-check Coherencia 3 cerebros
 
 
 
 
   - title: Kinesiologia
-    subtitle: Bioquimica
+    subtitle: Bioquimica del cuerpo
     price: 150 €
     description: |+
-      icon-clock 
+      icon-clock 2 Sesiones 
 
-      - icon-check Dossier Especifico de cambios
+      - icon-check Estudio especifico 
       - icon-check Valoración del Sistema Nervioso
-      - icon-check Valoracion del Sistema digestivo
-      - icon-check Coherencia 3 cerebros
+      - icon-check Valoracion del sistema digestivo
 
 
 
