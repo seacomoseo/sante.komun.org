@@ -2,7 +2,9 @@
 title: Home
 title_seo: SanTe - PNI, Physiotherapy, Kinesiology, KBQ, Jin Shin Jyutsu...
 slug: home
-description: Do you want to get a second opinion to help you understand what is wrong with you? ✅ + 25,000 sessions performed and + 15 years of experience.
+description: |-
+  THE COHERENCE OF THE 3 BRAINS STARTS WITH TUNING UP YOUR BODY
+  ✅ + 25,000 sessions performed and + 15 years of experience.
 image: logo.png
 draft: false
 noindex: false
@@ -24,7 +26,6 @@ sections:
 - file: paz
 - file: terapeuta
 - file: tarifas
-# - file: eventos
 - file: opiniones
 - file: contacto
 ---
