@@ -2,7 +2,7 @@
 title: Inicio
 title_seo: SanTe - PNI, Fisioterapia, Kinesiología, KBQ, Jin Shin Jyutsu...
 slug: inicio
-description: 'LA COHERENCIA EN LOS 3 CEREBROS COMIENZA SINTIENDO TU CUERPO ✅ '
+description: 'LA COHERENCIA DE LOS 3 CEREBROS AFINANDO EL EQUILIBRIO EN TU CUERPO ✅ '
 image: logo.png
 draft: false
 noindex: false
