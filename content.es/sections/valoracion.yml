@@ -1,11 +1,11 @@
-title: 'Valoración del Sistema Digestivo '
+title: Valoración del Sistema Digestivo con PNI y Terapias Manuales
 subtitle: ¿Comenzamos?
 rows:
 - type: steps
   design:
     underline: true
   items:
-  - title: Paso 1
+  - title: Sesión Exclusiva Online
     subtitle: El principio
     icon: circle-info
     description: >
@@ -14,20 +14,16 @@ rows:
 
 
       [btn icon-list Formularios](#formularios)
-  - title: Paso 2
-    subtitle: Entrevista
+  - title: Sesión 1
+    subtitle: Entrevista y Terapia Manual Visceral
     icon: comments
     description: >
-      Si quieres profundizar, realizaremos una entrevista donde sumaremos
-      información de interés que ayude a tener una visión mas especifica de lo
-      que ocurre (signos, síntomas, historial de antecedentes…)
-  - title: Paso 3
-    subtitle: Propuesta
-    icon: bullseye-arrow
-    description: |
-      Se proponen cambios adaptados al abordaje del motivo de consulta
-  - title: Paso 4
-    subtitle: Seguimientos
+      Recopilaré información de interés que ayude a tener una visión mas
+      especifica de lo que Te ocurre (signos, síntomas, historial de
+      antecedentes…) proponiendo cambios adaptados al abordaje del motivo de
+      consulta y realizando terapia Manual.
+  - title: Seguimiento
+    subtitle: Ahora es tu momento
     icon: list-check
     description: >
       Aplicaras los cambios con un seguimiento durante 3 semanas en este diario
@@ -35,13 +31,13 @@ rows:
 
 
       [btn icon-calendar K-Calendario](k-calendario.pdf "nofollow")
-  - title: Paso 5
-    subtitle: Revisión
+  - title: Sesión 2
+    subtitle: Revisión y Terapia Manual
     icon: memo-circle-check
     description: |
-      ¿Los cambios han sido efectivos?
-  - title: Paso 6
+      Conoces tu cuerpo en profundidad, y reviso como podemos seguir mejorando
+  - title: Sigue caminando
     subtitle: Gracias por la confianza
     icon: heart
     description: |
-      Sigue caminando en confianza y descubriéndoTe en amor
+      Avanza en confianza y descubriéndoTe en amor
