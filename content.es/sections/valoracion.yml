@@ -26,11 +26,11 @@ rows:
     subtitle: Ahora es tu momento
     icon: list-check
     description: >
-      Aplicaras los cambios con un seguimiento durante 3 semanas en este diario
-      intestinal:
+      Puedes aplicar los cambios durante 3 semanas, usando como ayuda este
+      diario intestinal:
 
 
-      [btn icon-calendar K-Calendario](k-calendario.pdf "nofollow")
+      [btn icon-calendar K-Calendario](k-calendario.pdf)
   - title: Sesión 2
     subtitle: Revisión y Terapia Manual
     icon: memo-circle-check
