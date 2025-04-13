@@ -14,7 +14,7 @@ rows:
     underline: true
   items:
   - title: SanTe
-    subtitle: La Salud, en tus manos
+    subtitle: Salud en tus manos
     image: icon-alt-tr.svg
     ratio: 16x9
     order: 2
@@ -25,9 +25,6 @@ rows:
 
 
       icon-plus de 15 años de experiencia
-
-
-      Terapeuta sensible y orientado a proporcionar planes de tratamiento creativos y adaptados a las necesidades
 
 
       [btn icon-plus Más](#principal)
