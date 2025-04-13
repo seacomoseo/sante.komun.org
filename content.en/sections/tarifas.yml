@@ -1,5 +1,4 @@
 title: Rates
-# size: xl
 rows:
 - type: columns
   design:
@@ -7,7 +6,6 @@ rows:
     color: main
     gradient: main-dark
     gradient_type: linear-b
-    # align_y: top
     underline: true
     link: '#contact'
     label: Contact
@@ -40,16 +38,6 @@ rows:
       icon-clock 1h 30min
 
       - icon-check Manual Treatment
-  # - icon: bullseye-arrow
-  #   title: Pack Online
-  #   subtitle: Online
-  #   price: 100 €
-  #   description: |
-  #     icon-clock ¿?
-
-  #     - icon-check Review and evaluate forms
-  #     - icon-check Initial Assessment
-  #     - icon-check Proposals for change
   - icon: hand-holding-hand
     title: Offer
     subtitle: Pack
@@ -62,3 +50,18 @@ rows:
       - icon-check Proposals for change
       - icon-check Manual Treatment
       - icon-check Discounted rates for follow-up sessions
+  - title: Kinesiology
+    subtitle: Body biochemistry
+    price: 150 €
+    icon: star-half-stroke
+    description: |+
+      icon-clock 2 Sessions
+
+      - icon-check Specific study
+      - icon-check Nervous System Assessment
+      - icon-check Digestive sistem Assessment
+
+
+
+
+slug: rates
