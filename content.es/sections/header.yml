@@ -1,7 +1,6 @@
-anchor: SanTe - PNI, Osteopatía, Fisioterapia, Kinesiología, KBQ, Jin Shin Jyutsu, Masaje Pránico...
+anchor: SanTe - PNI, Osteopatía, Fisioterapia, Kinesiología, KBQ, Jin Shin
+  Jyutsu, Masaje Pránico...
 bg: lavanda.webm
-# opacity: 10
-# size: md
 more:
   full_screen: true
   padding_top: 3
@@ -11,7 +10,6 @@ rows:
   design:
     num: 7
     align_y: center
-    # align_x: left
     align_x: center
     underline: true
   items:
@@ -21,15 +19,15 @@ rows:
     ratio: 16x9
     order: 2
     span: 3
-    description: |
-      ¿Quieres recibir una segunda opinión que te ayude a comprender lo que te ocurre?
+    description: >
+      Afinando los 3 Cerebros. La coherencia comienza despertando las
+      sensaciones en tu cuerpo
 
-      icon-plus de 25.000 sesiones realizadas
 
       icon-plus de 15 años de experiencia
 
+
       Terapeuta sensible y orientado a proporcionar planes de tratamiento creativos y adaptados a las necesidades
 
+
       [btn icon-plus Más](#principal)
-  # - image: leandro.png
-  #   span: 3
