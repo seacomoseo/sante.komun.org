@@ -2,21 +2,18 @@ id: digestive-system
 title: Digestive System
 subtitle: with PNI and Manual Therapies
 rows:
-- type: columns
-  design:
-    underline: true
-  items:
-  - title: Step 1
-    subtitle: Information
-    description: |
-      Fill in the forms, and let’s talk about the information you gathered about yourself.
-
-      [btn icon-list Forms](#forms)
 - type: steps
   design:
     underline: true
     # icon_size: 5
   items:
+  - title: Step 1
+    subtitle: Information
+    icon: circle-info
+    description: |
+      Fill in the forms, and let’s talk about the information you gathered about yourself.
+
+      [btn icon-list Forms](#forms)
   - title: Step 2
     subtitle: Let’s have a chat
     icon: comments

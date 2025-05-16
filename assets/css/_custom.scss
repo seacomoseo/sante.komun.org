@@ -70,3 +70,7 @@
     margin-top: 0;
   }
 }
+
+.step:first-child .step__axis-wrap:after {
+  background-color: transparent;
+}

@@ -2,21 +2,18 @@ id: systeme-digestif
 title: Système Digestif
 subtitle: avec PNI et thérapies manuelles
 rows:
-- type: columns
-  design:
-    underline: true
-  items:
-  - title: Étape 1
-    subtitle: Informations
-    description: |
-      Remplissez les formulaires et parlons des informations que vous avez recueillies.
-
-      [btn icon-list Formulaires](#formulaires)
 - type: steps
   design:
     underline: true
     # icon_size: 5
   items:
+  - title: Étape 1
+    subtitle: Informations
+    icon: circle-info
+    description: |
+      Remplissez les formulaires et parlons des informations que vous avez recueillies.
+
+      [btn icon-list Formulaires](#formulaires)
   - title: Étape 2 Entretien
     subtitle: L'entretien
     icon: comments

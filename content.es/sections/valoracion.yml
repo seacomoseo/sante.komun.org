@@ -2,21 +2,18 @@ id: sistema-digestivo
 title: Sistema Digestivo
 subtitle: con PNI y Terapias Manuales
 rows:
-- type: columns
+- type: steps
   design:
     underline: true
   items:
   - title: Sesión Exclusiva Online
+    icon: circle-info
     description: >
       Describe tu dia a dia contestando las preguntas sobre hábitos de vida y
       avanza hacia el cambio que quieres tener.
 
 
       [btn icon-list Formularios](#formularios)
-- type: steps
-  design:
-    underline: true
-  items:
   - title: Sesión 1
     subtitle: Entrevista y Terapia Manual Visceral
     icon: comments
