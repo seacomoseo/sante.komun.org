@@ -11,6 +11,7 @@ rows:
     # uppercase: true
     underline: true
     pill: true
+    label: Plus d'infos
   items:
   - icon: brain
     title: PNI

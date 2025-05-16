@@ -1,5 +1,5 @@
 baseURL: https://sante.komun.org
-Paginate: 24
+# Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
@@ -13,7 +13,7 @@ defaultContentLanguage: es
 disableLanguages: []
 languages:
   es:
-    paginatePath: pagina
+    # paginatePath: pagina
     permalinks:
       page:
         pages: :slug
@@ -34,7 +34,7 @@ languages:
         authors: autores
         custom: personalizadas
   en:
-    paginatePath: page
+    # paginatePath: page
     permalinks:
       page:
         pages: :slug
@@ -55,7 +55,7 @@ languages:
         authors: authors
         custom: custom
   fr:
-    paginatePath: page
+    # paginatePath: page
     permalinks:
       page:
         pages: :slug

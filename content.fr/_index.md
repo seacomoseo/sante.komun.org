@@ -24,7 +24,8 @@ sections:
 - file: paz
 - file: terapeuta
 - file: tarifas
-# - file: eventos
+- file: nutrisante
+- file: frase
 - file: opiniones
 - file: contacto
 ---
