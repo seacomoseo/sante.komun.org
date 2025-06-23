@@ -1,9 +1,9 @@
 ---
+slug: liver-cleanse
 title: Liver Detoxification and Cleansing Protocol
 title_seo: ''
-slug: liver-cleanse
 description: ''
-image: ''
+image: limpieza-hepatica.jpg
 toc: true
 draft: false
 noindex: true
@@ -147,3 +147,5 @@ Massive expulsion of gallstones and deep detoxification.
 ### Relative
 - Uncontrolled hypertension (due to sodium load in Phase 1).
 - Severe irritable bowel syndrome.
+
+![](limpieza-hepatica-alimentos.jpg)

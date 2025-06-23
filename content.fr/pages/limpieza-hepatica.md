@@ -1,9 +1,9 @@
 ---
+slug: nettoyage-hepatique
 title: Protocole de Détoxification et Nettoyage Hépatique
 title_seo: ''
-slug: nettoyage-hepatique
 description: ''
-image: ''
+image: limpieza-hepatica.jpg
 toc: true
 draft: false
 noindex: true
@@ -147,3 +147,5 @@ Expulsion massive de calculs biliaires et détoxification profonde.
 ### Relatives
 - Hypertension non contrôlée (due à la charge sodique en Phase 1).
 - Syndrome de l'intestin irritable sévère.
+
+![](limpieza-hepatica-alimentos.jpg)

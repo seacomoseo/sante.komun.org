@@ -1,9 +1,9 @@
 ---
+slug: limpieza-hepatica
 title: Protocolo de Desintoxicación y Limpieza Hepática
 title_seo: ''
-slug: limpieza-hepatica
 description: ''
-image: ''
+image: limpieza-hepatica.jpg
 toc: true
 draft: false
 noindex: true
@@ -147,3 +147,5 @@ Expulsión masiva de cálculos biliares y detoxificación profunda.
 ### Relativas
 - HTA no controlada (por carga de sodio en Fase 1).
 - Colon irritable grave.
+
+![](limpieza-hepatica-alimentos.jpg)
