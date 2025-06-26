@@ -27,7 +27,7 @@ sections:
 - file: terapeuta
 - file: tarifas
 - file: nutrisante
-- file: frase
+- file: limpieza-hepatica
 - file: opiniones
 - file: contacto
 ---
