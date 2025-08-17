@@ -3,11 +3,11 @@ slug: jus-energetiques
 title: Jus Énergétiques
 title_seo: ''
 description: ''
-image: juegos-energeticos.jpg
+image: jugos-energeticos.jpg
 toc: true
 draft: false
 noindex: true
-translationKey: juegos-energeticos
+translationKey: jugos-energeticos
 ---
 
 ## Jus Détox (Purifiant)

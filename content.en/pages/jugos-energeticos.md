@@ -3,11 +3,11 @@ slug: energy-juices
 title: Energy Juices
 title_seo: ''
 description: ''
-image: juegos-energeticos.jpg
+image: jugos-energeticos.jpg
 toc: true
 draft: false
 noindex: true
-translationKey: juegos-energeticos
+translationKey: jugos-energeticos
 ---
 
 ## Detox Juice (Cleansing)

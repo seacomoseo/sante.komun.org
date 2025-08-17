@@ -1,0 +1,29 @@
+id: articulos
+rows:
+- type: columns
+  design:
+    num: 3
+    # num_xs: true
+    color: main
+    gradient: main-dark
+    gradient_type: linear-b
+    inset: true
+    ratio: 16x9
+    underline: true
+    label: Más info
+    ofuscate: true
+  items:
+  - title: Limpieza Hepática
+    link: /limpieza-hepatica/
+    image: limpieza-hepatica.jpg
+  - title: Jugos Energéticos
+    link: /jugos-energeticos/
+    image: jugos-energeticos.jpg
+  - title: Reto Desparasitante de 4 Días
+    link: /reto-desparasitante-4-dias/
+    image: reto-desparasitante-4-dias.jpg
+- type: columns
+  items:
+  - licon: plus
+    label: Asistencia Online
+    link: '#tarifas'

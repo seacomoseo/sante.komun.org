@@ -1,0 +1,29 @@
+id: articles
+rows:
+- type: columns
+  design:
+    num: 3
+    # num_xs: true
+    color: main
+    gradient: main-dark
+    gradient_type: linear-b
+    inset: true
+    ratio: 16x9
+    underline: true
+    label: Plus d'infos
+    ofuscate: true
+  items:
+  - title: Nettoyage Hépatique
+    link: /fr/nettoyage-hepatique/
+    image: limpieza-hepatica.jpg
+  - title: Jus Énergétiques
+    link: /fr/jus-energetiques/
+    image: jugos-energeticos.jpg
+  - title: Défi Déparasitant de 4 Jours
+    link: /fr/defi-deparasitant-4-jours/
+    image: reto-desparasitante-4-dias.jpg
+- type: columns
+  items:
+  - licon: plus
+    label: Assistance en Ligne
+    link: '#tarifs'

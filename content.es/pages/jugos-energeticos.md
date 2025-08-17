@@ -1,13 +1,13 @@
 ---
-slug: juegos-energeticos
+slug: jugos-energeticos
 title: Jugos Energéticos
 title_seo: ''
 description: ''
-image: juegos-energeticos.jpg
+image: jugos-energeticos.jpg
 toc: true
 draft: false
 noindex: true
-translationKey: juegos-energeticos
+translationKey: jugos-energeticos
 ---
 
 ## Jugo Detox (Desintoxicante)
