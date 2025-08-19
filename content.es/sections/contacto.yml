@@ -5,7 +5,7 @@ rows:
 - type: contact
   data:
   - type: phone
-    label: +34 222 111 0514
+    label: +52 222 111 0514
   - type: custom
     link: https://t.me/+34651103119
     icon: telegram W
