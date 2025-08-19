@@ -7,7 +7,7 @@ rows:
   - type: phone
     label: +52 222 111 0514
   - type: custom
-    link: https://t.me/+34651103119
+    link: https://t.me/ https://wa.me/+34651103119
     icon: telegram W
     label: +34 651 103 119
     ofuscate: true
