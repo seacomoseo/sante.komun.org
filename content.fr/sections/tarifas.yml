@@ -14,9 +14,9 @@ rows:
     interval: 8
   items:
   - icon: glasses-round
-    title: Autognosis
+    title: S. Digestive
     subtitle: Online
-    price: 30 €
+    price: 300 $
     description: |
       icon-clock 20min
 
@@ -24,7 +24,7 @@ rows:
   - icon: arrow-pointer
     title: Online
     subtitle: Session individuelle
-    price: 70 €
+    price: 500 $
     description: |
       icon-clock 1h
 
@@ -33,7 +33,7 @@ rows:
   - icon: location-dot
     title: En personne
     subtitle: Séance individuelle
-    price: 80 €
+    price: 650 $
     description: |
       icon-clock 1h 30min
 
@@ -41,7 +41,7 @@ rows:
   - icon: hand-holding-hand
     title: Offre
     subtitle: Paquet
-    price: 120 €
+    price: 1100 €
     description: |
       icon-clock 2h
 
@@ -52,7 +52,7 @@ rows:
       - icon-check Réductions dans les sessions suivantes
   - title: Kinesiology
     subtitle: Kinésiologie biochimique
-    price: 150 €
+    price: 600 $( x1)
     icon: star-half-stroke
     description: |+
       icon-clock 2 Sessions
