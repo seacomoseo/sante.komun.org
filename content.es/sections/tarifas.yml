@@ -16,7 +16,7 @@ rows:
   - icon: glasses-round
     title: Ap.Digestivo
     subtitle: Online
-    price: ' 30€'
+    price: ' 30'
     description: |+
       icon-clock 20min
 
@@ -43,7 +43,7 @@ rows:
   - icon: location-dot
     title: Presencial
     subtitle: Terapias Manuales
-    price: 60 €
+    price: 650 $
     description: |+
       icon-clock 1h 
 
@@ -57,9 +57,9 @@ rows:
   - icon: hand-holding-hand
     title: En Profundidad
     subtitle: Pack
-    price: 120 €
+    price: 1100 $
     description: |+
-      icon-clock 1h 45min
+      icon-clock 2h
 
       - icon-check PNI
       - icon-check Fisioterapia
@@ -70,15 +70,11 @@ rows:
 
   - title: Kinesiologia
     subtitle: Bioquimica del cuerpo
-    price: 150 €
-    description: |+
-      icon-clock 2 Sesiones 
+    price: 600 $(x2)
+    description: |
+      icon-clock 2 Sesiones
 
-      - icon-check Estudio especifico 
+      - icon-check Estudio especifico
       - icon-check Valoración del Sistema Nervioso
       - icon-check Valoracion del sistema digestivo
-
-
-
-
     icon: star-half-stroke
