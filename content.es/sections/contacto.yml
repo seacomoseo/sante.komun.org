@@ -9,7 +9,7 @@ rows:
   - type: custom
     link: https://wa.me/ 2221110514
     icon: 'Wasap '
-    label: 222 111 0514
+    label: https://wa.me/ 222 111 0514
     ofuscate: true
     ga4: true
   - type: address
