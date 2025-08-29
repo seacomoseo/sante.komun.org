@@ -7,7 +7,7 @@ rows:
   - type: phone
     label: +52 222 111 0514
   - type: custom
-    link: https://wa.me/ 2221110514
+    link: ' 2221110514'
     icon: Whatsapp
     label: ' 222 111 0514'
     ofuscate: true
