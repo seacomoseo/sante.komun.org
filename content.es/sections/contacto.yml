@@ -9,7 +9,7 @@ rows:
   - type: custom
     link: ' 2221110514'
     icon: Whatsapp
-    label: ' 222 111 0514'
+    label: ''
     ofuscate: true
     ga4: true
   - type: address
