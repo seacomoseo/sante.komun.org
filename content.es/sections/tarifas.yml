@@ -16,7 +16,7 @@ rows:
   - icon: glasses-round
     title: Ap.Digestivo
     subtitle: Online
-    price: ' 30'
+    price: ' 250 $'
     description: |+
       icon-clock 20min
 
@@ -30,7 +30,7 @@ rows:
   - icon: arrow-pointer
     title: Online
     subtitle: Sesión Individual
-    price: 50 €
+    price: 500 $
     description: |+
       icon-clock 1h
 
@@ -70,7 +70,7 @@ rows:
 
   - title: Kinesiologia
     subtitle: Bioquimica del cuerpo
-    price: 600 $(x2)
+    price: 600 $(x Sesion)
     description: |
       icon-clock 2 Sesiones
 
