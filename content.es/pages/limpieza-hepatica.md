@@ -1,11 +1,8 @@
 ---
 slug: limpieza-hepatica
 title: Protocolo de Desintoxicación y Limpieza Hepática
-title_seo: ''
-description: ''
 image: limpieza-hepatica.jpg
 toc: true
-draft: false
 noindex: true
 translationKey: limpieza-hepatica
 ---

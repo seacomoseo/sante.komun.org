@@ -6,8 +6,6 @@ description: |-
   THE COHERENCE OF THE 3 BRAINS STARTS WITH TUNING UP YOUR BODY
   ✅ + 25,000 sessions performed and + 15 years of experience.
 image: logo.png
-draft: false
-noindex: false
 translationKey: home
 sections:
 - file: header

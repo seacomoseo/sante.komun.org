@@ -1,11 +1,8 @@
 ---
 slug: 4-day-deworming-challenge
 title: 4-Day Deworming Challenge
-title_seo: ''
-description: ''
 image: reto-desparasitante-4-dias.jpg
 toc: true
-draft: false
 noindex: true
 translationKey: reto-desparasitante-4-dias
 ---

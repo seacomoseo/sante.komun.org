@@ -4,8 +4,6 @@ title_seo: SanTe - PNI, Physiothérapie, Kinésiologie, KBQ, Jin Shin Jyutsu...
 slug: accueil
 description: Vous souhaitez recevoir un deuxième avis pour vous aider à comprendre ce qui ne va pas ? Plus de 25.000 séances et plus de 15 ans d'expérience.
 image: logo.png
-draft: false
-noindex: false
 translationKey: home
 sections:
 - file: header

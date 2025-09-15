@@ -1,11 +1,8 @@
 ---
 slug: defi-deparasitant-4-jours
 title: Défi Déparasitant de 4 Jours
-title_seo: ''
-description: ''
 image: reto-desparasitante-4-dias.jpg
 toc: true
-draft: false
 noindex: true
 translationKey: reto-desparasitante-4-dias
 ---

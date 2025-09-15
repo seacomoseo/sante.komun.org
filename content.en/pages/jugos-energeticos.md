@@ -1,11 +1,8 @@
 ---
 slug: energy-juices
 title: Energy Juices
-title_seo: ''
-description: ''
 image: jugos-energeticos.jpg
 toc: true
-draft: false
 noindex: true
 translationKey: jugos-energeticos
 ---

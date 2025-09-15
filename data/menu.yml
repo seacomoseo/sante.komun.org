@@ -1,7 +1,7 @@
 logo: ''
 color: main
 screen_sticky: 800
-size_sticky: ''
+size_sticky: lg
 articles_sticky: false
 transparent: true
 hide_anchors: false
@@ -21,7 +21,7 @@ more: []
 es:
   callnow_buttons:
   - type: custom
-    link: https://t.me/+34651103119
+    link: https://t.me/+522221110514
     icon: telegram
     label: Pulsa para contactar por Telegram
     ofuscate: true
@@ -29,7 +29,7 @@ es:
 en:
   callnow_buttons:
   - type: custom
-    link: https://t.me/+34651103119
+    link: https://t.me/+522221110514
     icon: telegram
     label: Click to contact by Telegram
     ofuscate: true
@@ -37,7 +37,7 @@ en:
 fr:
   callnow_buttons:
   - type: custom
-    link: https://t.me/+34651103119
+    link: https://t.me/+522221110514
     icon: telegram
     label: Cliquez pour contacter par télégramme
     ofuscate: true

@@ -1,11 +1,8 @@
 ---
 slug: liver-cleanse
 title: Liver Detoxification and Cleansing Protocol
-title_seo: ''
-description: ''
 image: limpieza-hepatica.jpg
 toc: true
-draft: false
 noindex: true
 translationKey: limpieza-hepatica
 ---

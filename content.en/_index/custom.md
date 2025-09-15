@@ -1,9 +1,7 @@
 ---
 title: Custom Pages
-title_seo: ''
 slug: custom
 description: List of custom pages
-image: ''
 draft: true
 noindex: true
 translationKey: custom
